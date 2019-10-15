@@ -1,4 +1,5 @@
 Config = {
+	DUMMY: false,
 	MAINTENANCE_MODE: false,
 	CHAIN_ID: 'ssc-00000000000000000002',
 	RPC_URL: 'https://testapi.steem-engine.com/',
